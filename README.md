@@ -1,5 +1,10 @@
 # Loan Eligibility Prediction
 
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Internship](https://img.shields.io/badge/Hex%20Softwares-Internship-blueviolet)
+
 ## Overview
 
 This project was completed as part of the **Hex Softwares Data Science Internship**.
